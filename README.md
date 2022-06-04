@@ -2,7 +2,7 @@
 learning python this is just a collection of all the code written so far
  description of current work done so far 
 
-<project name> : <project description>
+( project name ) : ( project description )
 
 calculator : learnt how to use built in functions and modular coding 
 
