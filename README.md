@@ -28,5 +28,7 @@ recursion q : second attempt at producing an recusrive function , sum of numbers
 
 recursion q2 : third attempt at recusrsion, count up to 50
 
+random v1 : used random functions and arrays 
 
+random v2 : tried to implement random function with a validation check but didnt work need to do more research and revisit
  
