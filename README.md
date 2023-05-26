@@ -32,3 +32,7 @@ random v1 : used random functions and arrays
 
 random v2 : tried to implement random function with a validation check but didnt work need to do more research and revisit
  
+took a huge break to learn and code using pyspark 
+
+the Data science branch is a unsorted collection of all the work and materials and notes collected thru the porcess of learning pyspark, numpy, scikit, pandas, regex libraries.
+
